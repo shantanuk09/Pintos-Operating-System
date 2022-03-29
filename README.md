@@ -1,1 +1,1 @@
-# Pintos-Operating-System
+# Pintos Operating System
